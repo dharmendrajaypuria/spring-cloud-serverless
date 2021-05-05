@@ -16,7 +16,7 @@ public class GetStudent implements Supplier<Student>{
 		
 		Student st = new Student();
 		st.setName("Dharmendra Jaypuria");
-		st.setRollNo("157917");
+		st.setRollNo("1001");
 		st.setDepartment("MCA");
 		
 		return st;
